@@ -1,2 +1,1 @@
-# pinkofhealth
- healthcare - static web app
+# Static Web App
